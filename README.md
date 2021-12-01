@@ -5,6 +5,10 @@
 
 *Se você é um curioso (a) e deseja aprender um pouco mais sobre hacking e cibersegurança, esse repositório foi feito pra você.*
 
+Você encontra mais conteúdo e material de estudo na Wiki:
+
+📌 [Github Wiki sobre Hacking](https://github.com/trigoinfosec/learnhacking/wiki)
+
 ## Intro
 
 Logo quando estava aprendendo sobre computação e segurança eu pensei: como assim é possível forjar e modificar coisas na estrutura da internet? 
